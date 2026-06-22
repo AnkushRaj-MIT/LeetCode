@@ -6,6 +6,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## String
@@ -19,6 +20,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
