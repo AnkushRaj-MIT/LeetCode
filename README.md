@@ -35,6 +35,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -68,5 +69,10 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0002-add-two-numbers) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
