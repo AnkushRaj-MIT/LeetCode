@@ -7,6 +7,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## String
@@ -52,6 +53,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0110-balanced-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -60,6 +62,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0110-balanced-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -69,6 +72,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0110-balanced-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Greedy
@@ -105,6 +109,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
