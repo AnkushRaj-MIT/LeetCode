@@ -97,6 +97,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
+| [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
 ## Recursion
 |  |
@@ -117,4 +118,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
