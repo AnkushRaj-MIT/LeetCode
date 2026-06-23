@@ -11,18 +11,16 @@
  */
 class Solution {
 public:
-    int depth(TreeNode* root){
-        if(root==NULL) return 0;
-        int leftDepth=depth(root->left);
-        int rightDepth=depth(root->right);
-        return 1+max(leftDepth,rightDepth);
+    pair<TreeNode*,int> dfs(TreeNode* root){
+        if(root==NULL) return{NULL,0};
+        auto left=dfs(root->left);
+        auto right=dfs(root->right);
+        if(left.second>right.second) return {left.first,left.second+1};
+        if(left.second<right.second) return {right.first,right.second+1};
+        return {root,left.second+1};
+
     }
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        if(root==NULL) return NULL;
-        int leftDepth=depth(root->left);
-        int rightDepth=depth(root->right);
-        if(leftDepth==rightDepth) return root;
-        else if(leftDepth>rightDepth) return lcaDeepestLeaves(root->left);
-        else return lcaDeepestLeaves(root->right);
+        return dfs(root).first;
     }
 };
