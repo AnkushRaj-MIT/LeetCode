@@ -15,6 +15,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -58,6 +59,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -72,6 +74,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -87,6 +90,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
