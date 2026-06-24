@@ -27,7 +27,7 @@ public:
                 i++;
             }
             TreeNode* node=new TreeNode(val);
-            while(st.size()>depth) st.pop();
+            while(st.size()>depth) st.pop();//st.size()=depth+1;
             if(!st.empty()){
                 if(st.top()->left==NULL){
                     st.top()->left=node;   
