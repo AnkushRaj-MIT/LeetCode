@@ -57,6 +57,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -70,6 +71,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -84,6 +86,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
