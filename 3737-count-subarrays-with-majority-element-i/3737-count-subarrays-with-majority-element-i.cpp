@@ -4,12 +4,10 @@ public:
         int n=nums.size();
         int ans=0;
         for(int i=0;i<n;i++){
-            vector<int> curr;
             int freq=0;
             for(int j=i;j<n;j++){
                 if(nums[j]==target) freq++;
-                curr.push_back(nums[j]);
-                if(freq>curr.size()/2) ans++;
+                if(freq>(j-i+1)/2) ans++;
             }
         }
         return ans;
