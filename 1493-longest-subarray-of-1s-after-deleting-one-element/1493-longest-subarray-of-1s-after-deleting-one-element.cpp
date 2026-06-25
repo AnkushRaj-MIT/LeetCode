@@ -11,7 +11,7 @@ public:
                 if(nums[left]==0) zero--;
                 left++;
             }
-            ans=max(ans,right-left);
+            ans=max(ans,right-left);//len=(right-left+1)-1
         }
         return ans;
     }
