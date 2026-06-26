@@ -2,37 +2,22 @@ class Solution {
 public:
     long long countMajoritySubarrays(vector<int>& nums, int target) {
         int n = nums.size();
-        // frequencyOfPrefix[i] = how many times the shifted prefix sum 'i' has occurred
-        vector<int> frequencyOfPrefix(2 * n + 1, 0);
-        // Initially, prefix sum = 0
-        frequencyOfPrefix[n] = 1;
-        // Current shifted prefix sum index
-        int shiftedPrefix = n;
-        // Number of previous prefix sums that are smaller than the current prefix
-        long long smallerPrefixCount = 0;
-        // Final answer
-        long long majoritySubarrays = 0;
-        for (int num : nums) {
-            if (num == target) {
-                // Prefix sum increases by 1
-                // Prefix sums equal to the current value now become smaller
-                smallerPrefixCount += frequencyOfPrefix[shiftedPrefix];
-                // Move to the new prefix sum
-                shiftedPrefix++;
-                // Record this new prefix sum
-                frequencyOfPrefix[shiftedPrefix]++;
-            } else {
-                // Prefix sum decreases by 1
-                // Move to the new prefix sum
-                shiftedPrefix--;
-                // Prefix sums equal to this value are no longer smaller
-                smallerPrefixCount -= frequencyOfPrefix[shiftedPrefix];
-                // Record this new prefix sum
-                frequencyOfPrefix[shiftedPrefix]++;
+        int cummulativeSum=0;
+        unordered_map<int,int> m;
+        m[0]=1;
+        long long ans=0;
+        int validLeftPoints=0;
+        for(int val:nums){
+            if(val==target){
+                validLeftPoints+=m[cummulativeSum];
+                cummulativeSum++;
+            }else{
+                cummulativeSum--;
+                validLeftPoints-=m[cummulativeSum];
             }
-            // Every smaller prefix forms one majority subarray ending here
-            majoritySubarrays += smallerPrefixCount;
+            m[cummulativeSum]++;
+            ans+=validLeftPoints;
         }
-        return majoritySubarrays;
+        return ans;
     }
 };
