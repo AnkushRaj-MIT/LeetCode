@@ -14,6 +14,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -41,6 +42,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -60,6 +62,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
