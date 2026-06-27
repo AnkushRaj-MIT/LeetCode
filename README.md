@@ -33,6 +33,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0904-fruit-into-baskets](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -66,6 +67,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -97,6 +99,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -164,6 +167,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -193,4 +197,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
