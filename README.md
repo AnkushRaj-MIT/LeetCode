@@ -88,6 +88,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0450-delete-node-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -106,6 +107,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -128,6 +130,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0450-delete-node-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -177,6 +180,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -253,6 +257,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
