@@ -98,6 +98,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +189,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Dynamic Programming
 |  |
 | ------- |
