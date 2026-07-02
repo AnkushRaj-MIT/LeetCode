@@ -46,6 +46,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0904-fruit-into-baskets](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -78,6 +79,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +98,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -142,6 +145,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -273,6 +277,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0450-delete-node-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -313,4 +318,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
