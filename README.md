@@ -46,6 +46,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -83,6 +84,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
+| [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -99,6 +101,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0450-delete-node-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -156,6 +159,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0450-delete-node-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -251,6 +255,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -346,5 +351,6 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
