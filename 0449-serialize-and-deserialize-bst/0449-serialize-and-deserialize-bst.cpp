@@ -28,10 +28,10 @@ public:
         string current = "";
         if(!getline(ss,current,','))return NULL;
         if(current == "#")return NULL;
-        TreeNode* temp = new TreeNode(stoi(current));
-        temp->left = create(ss);
-        temp->right = create(ss);
-        return temp;
+        TreeNode* root = new TreeNode(stoi(current));
+        root->left = create(ss);
+        root->right = create(ss);
+        return root;
     }
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
