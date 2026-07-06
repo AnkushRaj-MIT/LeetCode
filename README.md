@@ -112,6 +112,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -141,6 +142,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0617-merge-two-binary-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -174,6 +176,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
