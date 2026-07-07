@@ -11,23 +11,37 @@
  */
 class Solution {
 public:
-    TreeNode* prev=NULL;
-    TreeNode* first=NULL;
-    TreeNode* second=NULL;
-    void inorder(TreeNode* root){
-        if(root==NULL) return;
-        inorder(root->left);
-        if(prev!=NULL && (root->val<prev->val)){
-            if(first==NULL){
-                first=prev;
-            }
-            second=root;
-        }
-        prev=root;
-        inorder(root->right);
-    }
     void recoverTree(TreeNode* root) {
-        inorder(root);
-        swap(first->val,second->val);
+        TreeNode *prev = NULL;
+        TreeNode *first = NULL;
+        TreeNode *second = NULL;
+        while (root != NULL) {
+            if (root->left == NULL) {
+                if (prev && root->val < prev->val) {
+                    if (first == NULL) first = prev;
+                    second = root;
+                }
+                prev = root;
+                root = root->right;
+            }
+            else {
+                TreeNode *IP = root->left;
+                while (IP->right != NULL && IP->right != root) IP = IP->right;
+                if (IP->right == NULL) {
+                    IP->right = root;
+                    root = root->left;
+                }
+                else {
+                    IP->right = NULL;
+                    if (prev && root->val < prev->val) {
+                        if (first == NULL) first = prev;
+                        second = root;
+                    }
+                    prev = root;
+                    root = root->right;
+                }
+            }
+        }
+        swap(first->val, second->val);
     }
 };
