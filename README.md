@@ -54,6 +54,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -220,6 +221,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0002-add-two-numbers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
+| [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Recursion
@@ -382,4 +384,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
