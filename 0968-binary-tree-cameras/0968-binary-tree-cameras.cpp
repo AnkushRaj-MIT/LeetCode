@@ -18,14 +18,14 @@ public:
         if(root==NULL) return 2;
         int left=dfs(root->left);
         int right=dfs(root->right);
-        if(left==0||right==0){
+        if(left==0||right==0){ //when both or one of the children needs a camera
             camera++;
             return 1;
         }
-        if(left==1||right==1){
+        else if(left==1||right==1){//when both or one of the children has a camera therefore the parent is also covered
             return 2;
         }
-        return 0;
+        else return 0;//when both  the children are covered by camera but the parent would need a camera in future
     }
     int minCameraCover(TreeNode* root) {
         if(dfs(root)==0) camera++;
