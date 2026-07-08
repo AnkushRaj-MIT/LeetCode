@@ -25,12 +25,12 @@ public:
             sum=s;
         }
     };
-    nodeInfo solver(TreeNode* root){
+    nodeInfo dfs(TreeNode* root){
         if(root==NULL){
             return nodeInfo(true,INT_MAX,INT_MIN,0);
         }
-        nodeInfo left=solver(root->left);
-        nodeInfo right=solver(root->right);
+        nodeInfo left=dfs(root->left);
+        nodeInfo right=dfs(root->right);
         if(left.isBST && right.isBST && root->val>left.maxVal && root->val<right.minVal){
             int currSum=left.sum+right.sum+root->val;
             ans=max(ans,currSum);
@@ -39,7 +39,7 @@ public:
         return nodeInfo(false,INT_MIN,INT_MAX,0);
     }
     int maxSumBST(TreeNode* root) {
-        solver(root);
+        dfs(root);
         return ans;
     }
 };
