@@ -17,6 +17,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -62,6 +63,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -134,6 +136,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -208,6 +211,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
