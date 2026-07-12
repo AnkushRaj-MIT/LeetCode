@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    bool isCompleteTree(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        bool seenNull=false;
-        while(!q.empty()){
-            TreeNode* curr=q.front();
-            q.pop();
-            if(curr==NULL) seenNull=true;
-            else{
-                if(seenNull) return false;
-                q.push(curr->left);
-                q.push(curr->right);
-            }
-        }
-        return true;
+    int countNodes(TreeNode* root){
+        if (root == NULL) return 0;
+        return 1 + countNodes(root ->left) + countNodes(root -> right);
+    }
+    bool solve(TreeNode* root, int index, int n){
+        if (root == NULL)  return true;
+        if (index >= n)  return false;
+        bool left = solve(root -> left, index*2 + 1, n);
+        bool right = solve(root -> right, index*2 + 2, n);
+        return (left && right);
+    }
+    bool isCompleteTree(TreeNode* root){
+        int index = 0;
+        int n = countNodes(root);
+        return solve (root, index, n);
     }
 };
