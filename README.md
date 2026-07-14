@@ -7,6 +7,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -39,6 +40,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -50,6 +52,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -242,6 +245,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -322,6 +326,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
@@ -388,10 +393,12 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -447,4 +454,5 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
