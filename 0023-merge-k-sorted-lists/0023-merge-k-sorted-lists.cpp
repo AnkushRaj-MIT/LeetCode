@@ -9,68 +9,28 @@
  * };
  */
 class Solution {
-public:
-    ListNode* mergeSort(ListNode* l1,ListNode* l2){
-        ListNode* dummy=new ListNode(0);
-        ListNode* temp=dummy;
-        while(l1!=NULL && l2!=NULL){
-            if(l1->val<=l2->val){
-                temp->next=l1;
-                l1=l1->next;
-                temp=temp->next;
-            }
-            else{
-                temp->next=l2;
-                l2=l2->next;
-                temp=temp->next;
-            }
-        }
-        while(l1!=NULL){
-            temp->next=l1;
-            l1=l1->next;
-            temp=temp->next;
-        }
-        while(l2!=NULL){
-            temp->next=l2;
-            l2=l2->next;
-            temp=temp->next;
-        }
-        return dummy->next;
-    }
-    ListNode* sortList(ListNode* head) {
-       if(head==NULL||head->next==NULL) return head;
-       ListNode* prev=NULL;
-       ListNode* slow=head;
-       ListNode* fast=head;
-       while(fast!=NULL && fast->next!=NULL){
-        prev=slow;
-        slow=slow->next;
-        fast=fast->next->next;
-       }
-       prev->next=NULL;
-       ListNode* l1=sortList(head);
-       ListNode* l2=sortList(slow);
-       return mergeSort(l1,l2);
-    }    
+public: 
+    class compare{
+        public:
+          bool operator()(ListNode* a,ListNode* b){
+            return a->val>b->val;
+          }
+    };
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int n=lists.size();
-        if(lists.size()==0) return NULL;
-        ListNode* head=NULL;
-        int idx=0;
-        while(idx<n && lists[idx]==NULL) idx++;
-        if(idx==n) return NULL;
-        head=lists[idx];
+        priority_queue<ListNode*,vector<ListNode*>,compare> pq;
+        ListNode* head=new ListNode(0);
+        for(auto list:lists){
+            if(list==NULL) continue;
+            else pq.push(list);
+        }
         ListNode* tail=head;
-        while(tail!=NULL && tail->next!=NULL){
+        while(!pq.empty()){
+            ListNode* temp=pq.top();
+            pq.pop();
+            tail->next=temp;
             tail=tail->next;
+            if(temp->next!=NULL) pq.push(temp->next);
         }
-        for(int i=idx+1;i<n;i++){
-            if(lists[i]==NULL) continue;
-           tail->next=lists[i];
-           while(tail->next!=NULL){
-            tail=tail->next;
-           }
-        }
-       return sortList(head);
+        return head->next;
     }
 };
