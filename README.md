@@ -57,6 +57,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0904-fruit-into-baskets](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -254,6 +255,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
@@ -288,6 +290,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0061-rotate-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -329,6 +332,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
+| [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -376,6 +380,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -412,6 +417,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
