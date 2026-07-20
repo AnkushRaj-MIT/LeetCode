@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int atmost(vector<int> nums,int k){
+    int atmost(vector<int> &nums,int k){
         int count=0;
         int n=nums.size();
         if(k>n) return 0;
@@ -12,7 +12,7 @@ public:
                 if(nums[left]%2==1) oddCount--;
                 left++;
             }
-            count+=(right-left+1);
+            count+=(right-left+1);//atmost k no. of oddNumbers are allowed in this case(can be less than k too)
         }
         return count;
     }
