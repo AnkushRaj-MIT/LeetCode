@@ -70,6 +70,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
@@ -391,6 +392,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0904-fruit-into-baskets](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
