@@ -44,6 +44,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1268-search-suggestions-system](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -282,12 +283,14 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
