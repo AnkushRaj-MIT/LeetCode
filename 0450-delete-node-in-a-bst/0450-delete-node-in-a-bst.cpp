@@ -11,37 +11,37 @@
  */
 class Solution {
 public:
-    TreeNode* inorderSuccessor(TreeNode* root){
-        while(root!=NULL && root->left!=NULL){
-            root=root->left;
+    TreeNode* inorderSuccesor(TreeNode* node){
+        while(node!=NULL&&node->left!=NULL){
+            node=node->left;
         }
-        return root;
+        return node;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root==NULL) return NULL;
-        if(key<root->val){
+        if(root->val>key){
             root->left=deleteNode(root->left,key);
         }
-        else if(key>root->val){
+        else if(root->val<key){
             root->right=deleteNode(root->right,key);
         }
         else{
-            if(root->left==NULL && root->right==NULL){
+            if(root->left==NULL&&root->right==NULL){
                 delete root;
                 return NULL;
             }
-            else if(root->left!=NULL&& root->right==NULL){
+            else if(root->left!=NULL&&root->right==NULL){
                 TreeNode* temp=root->left;
                 delete root;
                 return temp;
             }
-            else if(root->left==NULL&& root->right!=NULL){
+            else if(root->right!=NULL&&root->left==NULL){
                 TreeNode* temp=root->right;
                 delete root;
                 return temp;
             }
             else{
-                TreeNode* IS=inorderSuccessor(root->right);
+                TreeNode* IS=inorderSuccesor(root->right);
                 root->val=IS->val;
                 root->right=deleteNode(root->right,IS->val);
             }
