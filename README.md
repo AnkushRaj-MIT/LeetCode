@@ -65,6 +65,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
@@ -452,6 +453,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
