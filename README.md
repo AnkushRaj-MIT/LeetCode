@@ -62,6 +62,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -348,6 +349,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
 | [0968-binary-tree-cameras](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
