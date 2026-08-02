@@ -34,12 +34,12 @@ public:
     };
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n=edges.size();
-        Graph* g=new Graph(n);
+        Graph g(n);
         for(auto edge:edges){
             int u=edge[0];
             int v=edge[1];
-            g->addEdge(u,v);
-            if(g->hasCycle()) return edge;
+            g.addEdge(u,v);
+            if(g.hasCycle()) return edge;
         }
         return {};
     }
