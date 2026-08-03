@@ -12,13 +12,21 @@ public:
             l[u].push_back(v);
             l[v].push_back(u);
         }
-        bool dfs(int u,int parent,vector<bool> &vis){
+        bool bfs(int u,vector<bool> &vis){
+            queue<pair<int,int>> q;
+            q.push({u,-1});
             vis[u]=true;
-            for(int v:l[u]){
-                if(!vis[v]){
-                    if(dfs(v,u,vis)) return true;
+            while(!q.empty()){
+                int src=q.front().first;
+                int parent=q.front().second;
+                q.pop();
+                for(int v:l[src]){
+                    if(!vis[v]){
+                        vis[v]=true;
+                        q.push({v,src});
+                    }
+                    else if(v!=parent) return true;
                 }
-                else if(v!=parent) return true;
             }
             return false;
         }
@@ -26,7 +34,7 @@ public:
             vector<bool> vis(V+1,false);
             for(int i=1;i<V;i++){
                 if(!vis[i]){
-                    if(dfs(i,-1,vis)) return true;
+                    if(bfs(i,vis)) return true;
                 }
             }
             return false;
