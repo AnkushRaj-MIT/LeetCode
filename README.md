@@ -69,6 +69,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +110,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0200-number-of-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Simulation
 |  |
@@ -196,6 +198,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -343,6 +346,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -561,6 +565,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
