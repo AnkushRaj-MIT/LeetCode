@@ -1,27 +1,38 @@
 class Solution {
 public:
-    int dfs(int i,int j,vector<vector<bool>> &vis,vector<vector<int>> &grid,int m,int n){
-        if(i<0||j<0||i>=m||j>=n||grid[i][j]==0||vis[i][j]==true) return 0;
-        vis[i][j]=true;
-        int v1=dfs(i+1,j,vis,grid,m,n);
-        int v2=dfs(i,j+1,vis,grid,m,n);
-        int v3=dfs(i-1,j,vis,grid,m,n);
-        int v4=dfs(i,j-1,vis,grid,m,n);
-        return 1+v1+v2+v3+v4;
+    
+    void dfs(int row, int col , vector<vector<int>>& grid, int n, int m, int &result ){
+        if(row < 0 || row >= n || col <0 || col >= m ) return ;
+
+        if(grid[row][col] == 1){
+            result++;
+            grid[row][col] = 0;
+        
+
+        dfs(row+1,col,grid,n,m,result);
+        dfs(row-1,col,grid,n,m,result);
+        dfs(row,col+1,grid,n,m,result);
+        dfs(row,col-1,grid,n,m,result);
+        }
+
+        return;
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
-        int m=grid.size();
-        int n=grid[0].size();
-        int maxArea=0;
-        vector<vector<bool>> vis(m,vector<bool> (n,false));
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(vis[i][j]==false && grid[i][j]==1){
-                    int area=dfs(i,j,vis,grid,m,n);
-                    maxArea=max(maxArea,area);
+        int n = grid.size();
+        int m = grid[0].size();
+
+        int area = 0;
+
+        for(int i =0; i<n;i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j]==1){
+                    int result = 0;
+                    dfs(i,j,grid,n,m,result);
+                    area = max(area,result);
                 }
             }
         }
-        return maxArea;
+
+        return area;
     }
 };
