@@ -87,6 +87,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0904-fruit-into-baskets](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
@@ -115,6 +116,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0200-number-of-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Simulation
 |  |
@@ -365,6 +367,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
