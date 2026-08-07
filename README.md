@@ -219,6 +219,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0968-binary-tree-cameras) |
@@ -365,6 +366,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -586,6 +588,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
+| [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
