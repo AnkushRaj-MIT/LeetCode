@@ -27,6 +27,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -106,6 +107,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -320,6 +322,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
