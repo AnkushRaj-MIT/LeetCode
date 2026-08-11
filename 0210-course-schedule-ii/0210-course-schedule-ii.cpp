@@ -1,56 +1,39 @@
 class Solution {
 public:
-    bool isCycleDFS(int u,vector<bool> &vis,vector<bool> &pathVis,vector<vector<int>>& prerequisites){
-        vis[u]=true;
-        pathVis[u]=true;
-        int n=prerequisites.size();
-        for(int i=0;i<n;i++){
-            int des=prerequisites[i][0];
-            int src=prerequisites[i][1];
-            if(u==src){
-                if(!vis[des]){
-                    if(isCycleDFS(des,vis,pathVis,prerequisites)) return true;
-                } 
-                else if(pathVis[des]) return true;
-            }
-        }
-        pathVis[u]=false;
-        return false;        
-    }
-    void topologicalSort(int u,stack<int> &s,vector<bool> &vis,vector<vector<int>> &prerequisites){
-        vis[u]=true;
-        int n=prerequisites.size();
-        for(int i=0;i<n;i++){
-            int des=prerequisites[i][0];
-            int src=prerequisites[i][1];
-            if(u==src){
-                if(!vis[des]){
-                    topologicalSort(des,s,vis,prerequisites);
-                } 
-            }
-        }
-        s.push(u);
-    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<bool> vis(numCourses,false);
-        vector<bool> pathVis(numCourses,false);
+        vector<vector<int>> adj(numCourses);
+        for(auto it: prerequisites){
+            adj[it[1]].push_back(it[0]);
+        }
+        stack<int> st;
+        vector<int> vis(numCourses);
+        vector<int> path(numCourses);
+        for(int i=0;i<numCourses;i++){
+            if(!vis[i]){
+                if(dfs(adj,i,vis,st,path)==false) return {};
+            }
+        }
         vector<int> ans;
-        for(int i=0;i<numCourses;i++){
-            if(!vis[i]){
-                if(isCycleDFS(i,vis,pathVis,prerequisites)) return ans;
-            }
+        while(!st.empty()){
+            ans.push_back(st.top());
+            st.pop();
+
         }
-        vis.assign(numCourses,false);
-        stack<int> s;
-        for(int i=0;i<numCourses;i++){
-            if(!vis[i]){
-                topologicalSort(i,s,vis,prerequisites);
-            }
-        }
-        while(!s.empty()){
-            ans.push_back(s.top());
-            s.pop();
-        }
+        if(ans.size()!=numCourses) return {};
         return ans;
     }
-};
+    bool dfs(vector<vector<int>> &adj, int node, vector<int> & vis,stack<int> &st, vector<int>& path){
+        vis[node]=1;
+        path[node]=1;
+        for(auto it: adj[node]){
+            if(path[it]==1) return false;
+            if(!vis[it]){
+                dfs(adj,it,vis,st,path);
+            }
+        }
+        path[node]=0;
+        st.push(node);
+        return true;
+    }
+
+};       
