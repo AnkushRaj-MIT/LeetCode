@@ -9,6 +9,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
@@ -41,6 +42,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0208-implement-trie-prefix-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
@@ -429,6 +431,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
@@ -463,6 +466,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
