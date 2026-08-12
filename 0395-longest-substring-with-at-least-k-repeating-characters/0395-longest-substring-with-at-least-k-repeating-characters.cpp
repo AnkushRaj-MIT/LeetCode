@@ -9,9 +9,8 @@ public:
         for(int i=left;i<=right;i++){
             if(freq[s[i]]<k){
                 int j=i+1;
-            
-            while(j<=right && freq[s[j]]<k) j++;
-            return max(solve(s,left,i-1,k),solve(s,j,right,k));
+                while(j<=right && freq[s[j]]<k) j++;
+                return max( solve(s,left,i-1,k) , solve(s,j,right,k));
             }
         }
         return right-left+1;
