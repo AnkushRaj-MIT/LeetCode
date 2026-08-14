@@ -252,6 +252,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1382-balance-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -403,6 +404,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -617,6 +619,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -627,6 +630,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
