@@ -234,6 +234,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -390,6 +391,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -614,6 +616,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0547-number-of-provinces](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
@@ -622,6 +625,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0210-course-schedule-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
@@ -632,4 +636,12 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
