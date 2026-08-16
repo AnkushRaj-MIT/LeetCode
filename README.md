@@ -64,6 +64,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0992-subarrays-with-k-different-integers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -111,6 +112,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -321,6 +323,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1382-balance-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -362,6 +365,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1248-count-number-of-nice-subarrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -620,6 +624,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 ## Union-Find
 |  |
 | ------- |
@@ -663,4 +668,16 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0881-boats-to-save-people) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
