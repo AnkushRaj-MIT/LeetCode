@@ -242,6 +242,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -407,6 +408,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -572,6 +574,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Backtracking
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bit Manipulation
 |  |
@@ -647,6 +650,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0547-number-of-provinces](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -658,6 +662,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Coloring
 |  |
 | ------- |
