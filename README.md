@@ -74,6 +74,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -331,6 +332,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -381,6 +383,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -707,4 +710,12 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
