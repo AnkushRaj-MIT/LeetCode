@@ -84,6 +84,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
@@ -131,6 +132,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0827-making-a-large-island) |
@@ -403,6 +405,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0547-number-of-provinces) |
@@ -548,6 +551,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
