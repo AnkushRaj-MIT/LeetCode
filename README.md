@@ -55,6 +55,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1268-search-suggestions-system](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1927-sum-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -330,6 +331,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1382-balance-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -374,6 +376,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1248-count-number-of-nice-subarrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -639,6 +642,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 ## Union-Find
 |  |
