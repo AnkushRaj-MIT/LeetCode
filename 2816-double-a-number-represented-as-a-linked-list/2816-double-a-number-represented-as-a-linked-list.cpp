@@ -10,28 +10,36 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* head){
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+        while(curr != NULL){
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        head = prev;
+        return head;
+    }
     ListNode* doubleIt(ListNode* head) {
-        unordered_map<ListNode*,ListNode*> m;
-        ListNode* temp=head;
-        ListNode* prev=NULL;
-        while(temp!=NULL){
-            m[temp]=prev;
-            prev=temp;
-            temp=temp->next;
+        head = reverse(head);
+        int carry = 0;
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+        while(curr != NULL){
+            int temp = 2*curr->val + carry;
+            carry = temp/10;
+            curr->val = temp%10;
+            prev = curr;
+            curr = curr->next;
         }
-        long long sum;
-        int carry=0;
-        while(prev!=NULL){
-            sum=(prev->val*2+carry)%10;
-            carry=(prev->val*2+carry)/10;
-            prev->val=sum;
-            prev=m[prev];
+        if(carry != 0){
+            ListNode* newnode = new ListNode(carry);
+            prev->next = newnode;
+            newnode->next = NULL;
         }
-        if(carry!=0){
-            ListNode* newNode=new ListNode(carry);
-            newNode->next=head;
-            head=newNode;
-        }
+        head = reverse(head);
         return head;
     }
 };
