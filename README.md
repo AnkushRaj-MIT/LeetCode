@@ -159,6 +159,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -398,6 +399,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
