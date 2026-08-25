@@ -157,6 +157,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0147-insertion-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -168,6 +169,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
+| [0445-add-two-numbers-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -375,6 +377,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
+| [0445-add-two-numbers-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
