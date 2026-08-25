@@ -10,55 +10,32 @@
  */
 class Solution {
 public:
-    ListNode* reverseLL(ListNode* head){
-        ListNode* curr=head;
-        ListNode* prev=NULL;
-        ListNode* next;
-        while(curr!=NULL){
-            next=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=next;
-        }
-        return prev;
-    }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        l1=reverseLL(l1);
-        l2=reverseLL(l2);
-        ListNode* ans=new ListNode(0);
-        ListNode* temp=ans;
-        int carry=0;
-        while(l1!=NULL && l2!=NULL){
-            int sum=l1->val+l2->val+carry;
-            ListNode* newNode=new ListNode(sum%10);
-            carry=sum/10;
-            temp->next=newNode;
-            temp=newNode;
+        stack<int> st1, st2;
+        while (l1) {
+            st1.push(l1->val);
             l1 = l1->next;
+        }
+        while (l2) {
+            st2.push(l2->val);
             l2 = l2->next;
         }
-        while(l1!=NULL){
-            int sum=l1->val+carry;
-            ListNode* newNode=new ListNode(sum%10);
-            carry=sum/10;
-            temp->next=newNode;
-            temp=newNode;
-            l1=l1->next;
+        ListNode* prev = nullptr;
+        int carry = 0;
+        while (!st1.empty() || !st2.empty() || carry) {
+            int sum = carry;
+            if (!st1.empty()) {
+                sum += st1.top();
+                st1.pop();
+            }
+            if (!st2.empty()) {
+                sum += st2.top();
+                st2.pop();
+            }
+            carry = sum / 10;
+            ListNode* y = new ListNode(sum % 10, prev);
+            prev = y;
         }
-        while(l2!=NULL){
-            int sum=l2->val+carry;
-            ListNode* newNode=new ListNode(sum%10);
-            carry=sum/10;
-            temp->next=newNode;
-            temp=newNode;
-            l2=l2->next;
-        }
-        if(carry!=0){
-            ListNode* newNode=new ListNode(carry);
-            temp->next=newNode;
-            temp=newNode;
-        }
-        ans=reverseLL(ans->next);
-        return ans;
+        return prev;
     }
 };
