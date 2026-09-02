@@ -160,6 +160,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0147-insertion-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0148-sort-list) |
+| [0382-linked-list-random-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -385,6 +386,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0002-add-two-numbers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
+| [0382-linked-list-random-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0877-stone-game) |
@@ -736,10 +738,12 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
 ## Kosaraju's Algorithm
 |  |
