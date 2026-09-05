@@ -124,6 +124,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -146,6 +147,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0827-making-a-large-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Simulation
 |  |
 | ------- |
@@ -711,17 +713,20 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Graph Coloring
 |  |
 | ------- |
