@@ -1,37 +1,30 @@
 class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
-        int V= n;
-        vector<vector<int>> adj(V);
-        for(auto &it: relations){
-            int u= it[0]-1;
-            int v= it[1]-1;
-            adj[u].push_back(v);
+        vector<int> indegree(n+1,0);
+        vector<vector<int>> g(n+1);
+        for(int i=0;i<relations.size();i++){
+            int u=relations[i][0];
+            int v=relations[i][1];
+            g[u].push_back(v);
+            indegree[v]++;
         }
-        vector<int> inDegree(V,0);
-        for(int i=0;i<V;i++){
-            for(int &v: adj[i]){
-                inDegree[v]++;
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        for(int i=1;i<=n;i++){
+            if(indegree[i]==0){
+                pq.push({time[i-1],i});
             }
         }
-        queue<int> q;
         int ans=0;
-        vector<int> finish(n, 0);
-        for(int i=0;i<V;i++){
-            if(inDegree[i]==0){
-                q.push(i);
-                finish[i]= time[i];
-            }
-        }
-        while(!q.empty()){
-            int u= q.front();
-            q.pop();
-            ans= max(ans, finish[u]);
-            for(int &v: adj[u]){
-                finish[v]= max(finish[v],finish[u]+time[v]);
-                inDegree[v]--;
-                if(inDegree[v]==0){
-                    q.push(v);
+        while(!pq.empty()){
+            int t=pq.top().first;
+            int u=pq.top().second;
+            pq.pop();
+            ans=max(ans,t);
+            for(int v: g[u]){
+                indegree[v]--;
+                if(indegree[v]==0){
+                    pq.push({t+time[v-1],v});
                 }
             }
         }
