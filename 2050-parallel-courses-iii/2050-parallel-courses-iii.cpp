@@ -1,36 +1,40 @@
 class Solution {
 public:
-    int ans=0;
-    void topologicalSort(int n,vector<vector<int>>& relations, vector<int>& time){
-        vector<vector<int>> g(n+1);
-        vector<int> indegree(n+1,0);
-        for(auto edge:relations){
-            int u=edge[0];
-            int v=edge[1];
-            g[u].push_back(v);
-            indegree[v]++;
+    int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
+        int V= n;
+        vector<vector<int>> adj(V);
+        for(auto &it: relations){
+            int u= it[0]-1;
+            int v= it[1]-1;
+            adj[u].push_back(v);
+        }
+        vector<int> inDegree(V,0);
+        for(int i=0;i<V;i++){
+            for(int &v: adj[i]){
+                inDegree[v]++;
+            }
         }
         queue<int> q;
-        for(int i=1;i<=n;i++){
-            if(indegree[i]==0){
+        int ans=0;
+        vector<int> finish(n, 0);
+        for(int i=0;i<V;i++){
+            if(inDegree[i]==0){
                 q.push(i);
+                finish[i]= time[i];
             }
         }
-        vector<int> minTime(n+1,0);
         while(!q.empty()){
-            int u=q.front();
-            int finishTime=minTime[u]+time[u-1];
-            ans=max(ans,finishTime);
+            int u= q.front();
             q.pop();
-            for(int v:g[u]){
-                minTime[v] = max(minTime[v], finishTime);
-                indegree[v]--;
-                if(indegree[v]==0) q.push(v);
+            ans= max(ans, finish[u]);
+            for(int &v: adj[u]){
+                finish[v]= max(finish[v],finish[u]+time[v]);
+                inDegree[v]--;
+                if(inDegree[v]==0){
+                    q.push(v);
+                }
             }
         }
-    }
-    int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
-        topologicalSort(n,relations,time);
         return ans;
     }
 };
