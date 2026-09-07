@@ -13,6 +13,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -49,6 +50,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -652,6 +654,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1472-design-browser-history](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2296-design-a-text-editor) |
@@ -808,4 +811,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
