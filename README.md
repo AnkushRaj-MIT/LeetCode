@@ -117,6 +117,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -193,6 +194,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -659,6 +661,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Number Theory
