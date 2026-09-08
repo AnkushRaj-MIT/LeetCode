@@ -417,6 +417,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
@@ -669,6 +670,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Iterator
 |  |
 | ------- |
