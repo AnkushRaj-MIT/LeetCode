@@ -121,6 +121,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1472-design-browser-history](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -709,6 +710,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0827-making-a-large-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -726,6 +728,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0841-keys-and-rooms](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -824,4 +827,20 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
