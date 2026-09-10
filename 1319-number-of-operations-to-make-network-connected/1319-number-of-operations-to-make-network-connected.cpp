@@ -9,7 +9,7 @@ public:
         }
     }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        if (connections.size()<(n-1)) return -1;
+        if (connections.size()<(n-1)) return -1;//to connect n components we need n-1 cables
         vector<vector<int>> adj(n);
         for(auto val:connections){
             int u=val[0];
