@@ -44,6 +44,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0043-multiply-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
@@ -158,6 +159,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0043-multiply-strings) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2296-design-a-text-editor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2296-design-a-text-editor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -411,6 +413,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
