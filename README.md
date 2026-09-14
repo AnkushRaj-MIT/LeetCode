@@ -626,6 +626,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -685,6 +686,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1381-design-a-stack-with-increment-operation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2296-design-a-text-editor) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Number Theory
 |  |
 | ------- |
@@ -753,6 +755,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Topological Sort
 |  |
 | ------- |
@@ -830,6 +833,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
