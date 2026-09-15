@@ -10,6 +10,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0133-clone-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -93,6 +94,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -419,6 +421,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -679,6 +682,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0211-design-add-and-search-words-data-structure](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0895-maximum-frequency-stack](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0895-maximum-frequency-stack) |
@@ -803,6 +807,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0398-random-pick-index) |
 ## Kosaraju's Algorithm
