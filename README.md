@@ -30,6 +30,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1338-reduce-array-size-to-the-half](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -125,6 +126,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1268-search-suggestions-system](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1338-reduce-array-size-to-the-half](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1472-design-browser-history) |
@@ -383,6 +385,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1338-reduce-array-size-to-the-half](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -408,6 +411,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1268-search-suggestions-system](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1338-reduce-array-size-to-the-half](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
@@ -645,6 +649,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1338-reduce-array-size-to-the-half](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Bucket Sort
