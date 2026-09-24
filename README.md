@@ -681,6 +681,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0052-n-queens-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bit Manipulation
@@ -913,4 +914,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
