@@ -145,6 +145,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -176,6 +177,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0043-multiply-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0043-multiply-strings) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2296-design-a-text-editor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2296-design-a-text-editor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -448,6 +450,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1927-sum-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -681,6 +684,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -723,6 +727,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Iterator
