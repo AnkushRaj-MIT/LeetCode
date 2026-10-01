@@ -15,8 +15,6 @@ public:
             int effort=val.first;
             int row=val.second.first;
             int col=val.second.second;
-            if(row==m-1 && col==n-1) return effort;
-            if(effort>dist[row][col]) continue;
             for(int i=0;i<4;i++){
                 int nr=row+dr[i];
                 int nc=col+dc[i];
