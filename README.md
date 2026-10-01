@@ -549,6 +549,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Binary Search
@@ -811,6 +812,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -821,6 +823,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0210-course-schedule-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
@@ -893,6 +896,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Dijkstra's Algorithm
 |  |
@@ -901,6 +905,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
