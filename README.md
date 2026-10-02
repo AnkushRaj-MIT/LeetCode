@@ -65,6 +65,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
 | [0745-prefix-and-suffix-search](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0745-prefix-and-suffix-search) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -788,6 +789,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0827-making-a-large-island) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
