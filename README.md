@@ -346,6 +346,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -536,6 +537,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -794,6 +796,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -818,6 +821,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
