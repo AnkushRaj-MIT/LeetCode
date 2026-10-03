@@ -53,6 +53,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0043-multiply-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -218,6 +219,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -541,6 +543,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0343-integer-break](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0343-integer-break) |
@@ -964,6 +967,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
