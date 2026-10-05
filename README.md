@@ -66,6 +66,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0745-prefix-and-suffix-search](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0745-prefix-and-suffix-search) |
+| [0856-score-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -235,6 +236,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -988,6 +990,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0020-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
