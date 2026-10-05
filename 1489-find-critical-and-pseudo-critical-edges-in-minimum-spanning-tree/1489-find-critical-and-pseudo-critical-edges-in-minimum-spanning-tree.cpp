@@ -1,82 +1,122 @@
 class Solution {
 public:
-class DSU{
-public:
-    vector<int> parent;
-    vector<int> rank;
-    DSU(int n){
-        for(int i=0;i<n;i++){
-            parent.push_back(i);
-            rank.push_back(0);
+    int findParent(int node , vector<int>&parent){
+        if(parent[node] == node){
+            return parent[node];
         }
+
+        return parent[node] = findParent(parent[node],parent);
     }
-    void unite(int a,int b){
-        int parA=find(a);
-        int parB=find(b);
-        if(parA==parB) return;
-        if(rank[parA]==rank[parB]){
-            parent[parB]=parA;
-            rank[parA]++;
+
+    bool unionSet(int u ,int v, vector<int>&parent,vector<int>&rank){
+        u = findParent(u,parent);
+        v = findParent(v,parent);
+
+        if(u == v){
+            return false;
         }
-        else if(rank[parA]>rank[parB]){
-            parent[parB]=parA;
+
+        if(rank[u]>rank[v]){
+            parent[v] = u;
         }
-        else parent[parA]=parB;
+        else if(rank[u]<rank[v]){
+            parent[u] = v;
+        }
+        else{
+            parent[u] = v;
+            rank[v]++;
+        }
+        return true;
     }
-    int find(int val){
-        if(parent[val]==val) return val;
-        return parent[val]=find(parent[val]);
-    }
-};
-    int getMST(int n,vector<vector<int>> & edges,int skip,int force){
-        DSU dsu(n);
-        int cost=0,count=0;
-        if(force!=-1){
-            int u=edges[force][0];
-            int v=edges[force][1];
-            int wt=edges[force][2];
-            dsu.unite(u,v);
-            cost+=wt;
-            count++;
+    int kruskal(int n , vector<vector<int>>&edges,int skip ,int force){
+        vector<int>parent(n);
+        vector<int>rank(n,0);
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
         }
-        for(int i=0;i<edges.size();i++){
-            if(i==skip||i==force) continue;
-            auto edge=edges[i];
-            int u=edge[0];
-            int v=edge[1];
-            int wt=edge[2];
-            if(dsu.find(u)!=dsu.find(v)){
-                dsu.unite(u,v);
-                cost+=wt;
+
+        int weight = 0;
+        int count = 0;
+        if(force != -1){
+           
+            int u = edges[force][0];
+            int v = edges[force][1];
+            int w = edges[force][2];
+
+
+            if (unionSet(u, v, parent, rank)) {
+                weight += w;
                 count++;
             }
         }
-        if(count!=n-1) return INT_MAX;
-        return cost;
+
+        for (int i = 0; i < edges.size(); i++) {
+
+            // Don't use the skipped edge
+            if (i == skip)
+                continue;
+
+            // Already forced
+            if (i == force)
+                continue;
+
+            int u = edges[i][0];
+            int v = edges[i][1];
+            int w = edges[i][2];
+
+            if (unionSet(u, v, parent, rank)) {
+
+                weight += w;
+                count++;
+
+                // MST has n-1 edges
+                if (count == n - 1)
+                    break;
+            }
+        }
+
+        if(count != n-1){
+            return INT_MAX;
+        }
+
+        return weight;
+
     }
     vector<vector<int>> findCriticalAndPseudoCriticalEdges(int n, vector<vector<int>>& edges) {
-        int i=0;
-        for(auto &edge:edges){
-            edge.push_back(i);
-            i++;
-        }
-        sort(edges.begin(),edges.end(),[](auto &a,auto &b){
-            return a[2]<b[2];
+       vector<vector<int>>newEdges;
+       for(int i=0;i<edges.size();i++){
+        newEdges.push_back({
+            edges[i][0],
+            edges[i][1],
+            edges[i][2],
+            i
         });
-        int originalMST=getMST(n,edges,-1,-1);
-        vector<int> critical;
-        vector<int> pseudoCritical;
-        for(int i=0;i<edges.size();i++){
-            int without=getMST(n,edges,i,-1);
-            if(without>originalMST){
-                critical.push_back(edges[i][3]);
-                continue;
+       }
+       sort(newEdges.begin(), newEdges.end(),
+            [](const vector<int>& a, const vector<int>& b) {
+                return a[2] < b[2];
             }
-            int with=getMST(n,edges,-1,i);
-            if(with==originalMST){
-                pseudoCritical.push_back(edges[i][3]);
+        );
+       int originalWeight = kruskal(n,newEdges,-1,-1);
+       vector<int>critical;
+       vector<int>pseudo;
+       for(int i =0;i<newEdges.size();i++){
+         int withoutEdge = kruskal(n,newEdges,i,-1);
+         if(withoutEdge>originalWeight){
+            critical.push_back(newEdges[i][3]);
+         }
+         else{
+            int withEdge = kruskal(n,newEdges,-1,i);
+            if(withEdge == originalWeight){
+                pseudo.push_back(newEdges[i][3]);
             }
-        }
-        return {critical,pseudoCritical};
+         }
+       }
+       return {
+        critical,
+        pseudo
+       };
+       
     }
+    
 };
