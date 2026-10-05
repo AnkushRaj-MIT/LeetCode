@@ -448,6 +448,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1288-remove-covered-intervals](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1338-reduce-array-size-to-the-half](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
@@ -814,6 +815,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1267-count-servers-that-communicate](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
@@ -837,6 +839,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -951,18 +954,22 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Prim's Algorithm
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Kruskal's Algorithm
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Borůvka's Algorithm
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Queue
 |  |
@@ -993,4 +1000,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0856-score-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
