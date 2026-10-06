@@ -67,6 +67,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0678-valid-parenthesis-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0745-prefix-and-suffix-search](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0745-prefix-and-suffix-search) |
 | [0856-score-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -238,6 +239,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0895-maximum-frequency-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -421,6 +423,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0678-valid-parenthesis-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1338-reduce-array-size-to-the-half](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -998,6 +1001,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0032-longest-valid-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Strongly Connected Component
