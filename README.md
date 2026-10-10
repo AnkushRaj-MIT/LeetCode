@@ -320,6 +320,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -524,6 +525,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0407-trapping-rain-water-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -837,6 +839,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0133-clone-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0743-network-delay-time) |
@@ -865,6 +868,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0207-course-schedule](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
