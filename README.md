@@ -168,6 +168,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -309,6 +310,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -426,6 +428,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -442,6 +445,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1927-sum-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -595,6 +599,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
