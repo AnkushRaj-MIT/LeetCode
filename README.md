@@ -161,6 +161,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -200,6 +201,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Simulation
@@ -374,6 +376,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -579,6 +582,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -624,6 +628,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -859,6 +864,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
