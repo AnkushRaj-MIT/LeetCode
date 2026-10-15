@@ -41,6 +41,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -169,6 +170,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -642,6 +644,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -744,6 +747,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
