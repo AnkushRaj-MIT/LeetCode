@@ -169,6 +169,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -200,6 +201,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -378,6 +380,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -583,6 +586,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
@@ -857,6 +861,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Graph Theory
