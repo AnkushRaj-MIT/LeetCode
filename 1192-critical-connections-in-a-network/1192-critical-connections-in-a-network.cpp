@@ -14,7 +14,7 @@ public:
                 if(low[v]>dt[u]) bridges.push_back({u,v});
             }
             else if(v!=parU){
-                low[u]=min(low[u],dt[v]);
+                low[u]=min(low[u],low[v]);
             }
         }
     }
