@@ -103,6 +103,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0001-two-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0040-combination-sum-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -782,6 +783,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0052-n-queens-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
