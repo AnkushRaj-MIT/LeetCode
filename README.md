@@ -165,6 +165,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -486,6 +487,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1840-maximum-building-height) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -637,6 +639,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
