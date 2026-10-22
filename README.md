@@ -302,6 +302,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -369,6 +370,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0934-shortest-bridge) |
+| [0965-univalued-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -430,6 +432,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -591,6 +594,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0919-complete-binary-tree-inserter](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0934-shortest-bridge](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0934-shortest-bridge) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
