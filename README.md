@@ -155,6 +155,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -205,6 +206,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0994-rotting-oranges](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -388,6 +390,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1382-balance-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -604,6 +607,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1609-even-odd-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1905-count-sub-islands) |
@@ -1095,6 +1099,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1107,4 +1112,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
