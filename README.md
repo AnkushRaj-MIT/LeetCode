@@ -622,6 +622,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -941,6 +942,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2360-longest-cycle-in-a-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
