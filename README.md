@@ -171,6 +171,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -538,6 +539,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1927-sum-game](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -561,6 +563,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0786-k-th-smallest-prime-fraction](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -648,6 +651,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2063-vowels-of-all-substrings](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Search
 |  |
@@ -732,6 +736,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
