@@ -19,6 +19,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0535-encode-and-decode-tinyurl](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
+| [0690-employee-importance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0690-employee-importance) |
 | [0745-prefix-and-suffix-search](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0745-prefix-and-suffix-search) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -126,6 +127,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0648-replace-words](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0690-employee-importance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
@@ -303,6 +305,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0690-employee-importance) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -364,6 +367,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0743-network-delay-time) |
@@ -595,6 +599,7 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 | [0655-print-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0743-network-delay-time) |
