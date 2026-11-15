@@ -1152,4 +1152,8 @@ My LeetCode journey: solutions, algorithms, and data structures in C++.
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/AnkushRaj-MIT/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
